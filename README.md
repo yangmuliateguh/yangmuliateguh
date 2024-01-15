@@ -22,7 +22,14 @@ I am a coding enthusiast and content creator on the YouTube channel 'Universitas
 <a href="https://www.instagram.com/yangmuliateguh?igsh=YXVldDF3aTVwZmxt">
   <img align="left" alt="Teguh's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-Ubah link media sosial diatas dengan link media sosial kalian.
+
+### <summary><strong>Daily Workout</strong></summary>
+<a href="https://exercism.org/profiles/yangmuliateguh">
+  <img align="left" alt="Teguh's Exercism" width="20px" src="https://simpleicons.now.sh/exercism/495f7e" />
+</a>
+<a href="https://www.hackerrank.com/profile/yangmuliateguh">
+  <img align="left" alt="Teguh's Hackerrank" width="20px" src="https://simpleicons.now.sh/hackerrank/495f7e" />
+</a>
 
 Untuk Tools, kalian juga dapat menambahkan:
 
