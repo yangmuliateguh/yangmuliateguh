@@ -21,6 +21,9 @@ I am a coding enthusiast and content creator on the YouTube channel 'Universitas
 </a>
 <a href="https://www.instagram.com/yangmuliateguh?igsh=YXVldDF3aTVwZmxt">
   <img align="left" alt="Teguh's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-teguh-prastyo-85b09326a/">
+  <img align="left" alt="Teguh's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a><br>
 
 ### <summary><strong>Daily Workout</strong></summary>
@@ -33,12 +36,10 @@ I am a coding enthusiast and content creator on the YouTube channel 'Universitas
 <a href="https://www.codewars.com/users/yangmuliateguh">
   <img align="left" alt="Teguh's Codewars" width="20px" src="https://simpleicons.now.sh/codewars/495f7e" />
 </a>
+<a href="https://leetcode.com/user3368cH/">
+  <img align="left" alt="Teguh's LeetCode" width="20px" src="https://simpleicons.now.sh/leetcode/495f7e" />
+</a><br>
 
-Untuk Tools, kalian juga dapat menambahkan:
-
-<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
-<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
-<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=yangmuliateguh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangmuliateguh&layout=compact" height=180 />
