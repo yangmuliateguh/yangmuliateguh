@@ -38,7 +38,7 @@ I am a coding enthusiast and content creator on the YouTube channel 'Universitas
 </a>
 <a href="https://leetcode.com/user3368cH/">
   <img align="left" alt="Teguh's LeetCode" width="20px" src="https://simpleicons.now.sh/leetcode/495f7e" />
-</a><br>
+</a><br><br><br>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=yangmuliateguh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
