@@ -6,7 +6,7 @@ I am a coding enthusiast and content creator on the YouTube channel 'Universitas
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>Yoomaan!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Backend Programming. </br>
     - :speech_balloon: Ask me about anything.</br>
