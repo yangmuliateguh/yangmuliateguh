@@ -23,21 +23,9 @@ I am a coding enthusiast and content creator on the YouTube channel 'Universitas
   <img align="left" alt="Teguh's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-teguh-prastyo-85b09326a/">
-  <img align="left" alt="Teguh's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<!--   <img align="left" alt="Teguh's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" /> -->
+    linkedin
 </a><br>
-
-### <summary><strong>Daily Workout</strong></summary>
-<a href="https://exercism.org/profiles/yangmuliateguh">
-  <img align="left" alt="Teguh's Exercism" width="20px" src="https://simpleicons.now.sh/exercism/495f7e" />
-</a>
-<a href="https://www.hackerrank.com/profile/yangmuliateguh">
-  <img align="left" alt="Teguh's Hackerrank" width="20px" src="https://simpleicons.now.sh/hackerrank/495f7e" />
-</a>
-<a href="https://www.codewars.com/users/yangmuliateguh">
-  <img align="left" alt="Teguh's Codewars" width="20px" src="https://simpleicons.now.sh/codewars/495f7e" />
-</a>
-<a href="https://leetcode.com/user3368cH/">
-  <img align="left" alt="Teguh's LeetCode" width="20px" src="https://simpleicons.now.sh/leetcode/495f7e" />
 </a><br><br><br>
 
 <p>
