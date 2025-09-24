@@ -1,5 +1,4 @@
 # <summary><strong>Hi there :wave: , I'm Teguh!</strong></summary>
-I am a coding enthusiast and content creator on the YouTube channel 'Universitas AsikJuGa'. Here, I combine my love of code with a talent for creating educational and engaging videos. With every line of code I break down, I take the audience on an informative and fun journey, explaining the complexities of coding in an easy-to-understand way. Always passionate about new technology, I share innovation and creative collaboration through every video I create
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
